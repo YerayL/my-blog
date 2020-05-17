@@ -1,6 +1,5 @@
-$$
-xasasca*asfs()
-$$
+---
+typora-root-url: ..	
+---
 
-<img src="/img/20200516190635.jpg" alt="20200516190635" style="zoom:50%;" />
-
+pytorch的可视化
